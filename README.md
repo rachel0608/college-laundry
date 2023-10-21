@@ -1,6 +1,6 @@
 # college-laundry
 
-A webpage taht lets users book washers and dryers, time their cycles, and message each other (if they need to borrow detergent, dryer sheets, etc.).
+A webpage that lets users book washers and dryers, time their cycles, and message each other (if they need to borrow detergent, dryer sheets, etc.).
 
 Feature Notes:
 
